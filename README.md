@@ -18,14 +18,12 @@
   <tr>
     <td>JavaScript</td>
     <td>HTML</td>
-    <td>CSS</td>
-    <td>MySql</td>
+    <td>CSS</td>    
   </tr>
   <tr>
     <td>✔️</td>
     <td>✔️</td>
-    <td>✔️</td>
-    <td>✔️</td>
+    <td>✔️</td>    
   </tr>
 </table>
 
