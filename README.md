@@ -4,14 +4,7 @@
 > Status: Developing ⚠️
 
 ### It is a movie search app using OMDb API
-
-+ In this first version of this app it only gives some brief information about the movies.
   
-## The following features are in development:
-
-- Show trailer versions of the movies.
-- Show movie reviews.
-
 ## Technologies Used:
 
 <table>
