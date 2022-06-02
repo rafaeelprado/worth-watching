@@ -3,6 +3,8 @@
 
 > Status: Developing ⚠️
 
+### Project link: https://rafaeelprado.github.io/worth-watching/
+
 ### It is a movie search app using OMDb API
   
 ## Technologies Used:
